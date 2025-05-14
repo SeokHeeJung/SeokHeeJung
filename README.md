@@ -1,5 +1,5 @@
 # JUNG SEOK HEE 😒💻
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SeokHeeJung&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeokHeeJung&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeokHeeJung&layout=donut)](https://github.com/SeokHeeJung/github-readme-stats)
 # 💪🏼 Skills
 ### 📝 Platforms & Languages
