@@ -1,5 +1,5 @@
 # JUNG SEOK HEE 😒👋
-<p>👋 Hi there! I'm a student at <strong>YeungNam University</strong> majoring in comuter engineering 🖥️</p>
+<p>Hi there! I'm a student at <strong>YeungNam University</strong> majoring in comuter engineering 🖥️</p>
 <p>I hope to develop every beautiful thing. ✨</p>
 
 # 💪🏼 Skills
