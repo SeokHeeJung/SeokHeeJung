@@ -13,11 +13,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 # 📞 Contact
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://SeokHeeJung.github.io/)](https://SeokHeeJung.github.io/)
-[![Instagram Badge](http://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=Instagram&logoColor=red&link=https://www.instagram.com/se0k_hee_/)](https://www.instagram.com/se0k_hee_/)
+[![Instagram Badge](http://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=Instagram&logoColor=black&link=https://www.instagram.com/se0k_hee_/)](https://www.instagram.com/se0k_hee_/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tjrgml8435@gmail.com)](mailto:tjrgml8435@gmail.com)
-
-<!--
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/)
-
--->
-
