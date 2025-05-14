@@ -1,5 +1,5 @@
 # JUNG SEOK HEE 😒👋
-<p>I'm a student at <strong>YeungNam University</strong> majoring in <strong>computer engineering </strong>strong>🖥️</p>
+<p>I'm a student at <strong>YeungNam University</strong> majoring in <strong>computer engineering </strong>🖥️</p>
 <p>I hope to develop every beautiful thing. ✨</p>
 
 # 💪🏼 Skills
