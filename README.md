@@ -1,6 +1,7 @@
 # JUNG SEOK HEE 😒👋
-### Hi there! I'm mobile app and web developer using Android. 🚀💖 
-### I hope to develop every beautiful thing. ✨
+<p>👋 Hi there! I'm a student at <strong>YeungNam University</strong> majoring in comuter engineering 🖥️</p>
+<p>I hope to develop every beautiful thing. ✨</p>
+
 # 💪🏼 Skills
 ### Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white) 
