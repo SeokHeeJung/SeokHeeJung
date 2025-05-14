@@ -1,5 +1,5 @@
 ### Hi there 👋
-![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 <!--
 **SeokHeeJung/SeokHeeJung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
