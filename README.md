@@ -1,4 +1,4 @@
-# JUNG SEOK HEE 😒👋
+# JUNG SEOK HUI 😒👋
 <p>I'm a student at <strong>YeungNam University</strong> majoring in <strong>computer engineering </strong>🖥️</p>
 <p>I hope to develop every beautiful thing. ✨</p>
 
